@@ -11,6 +11,7 @@ public class App {
         int numero1;
         int numero2;
         int suma;
+        // comentario
 
         // Creación de un objeto Scanner para leer la entrada del usuario
         Scanner scanner = new Scanner(System.in);
